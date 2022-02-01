@@ -1,4 +1,4 @@
-Hi, I’m @BrelM👋🏽
+Hi, I’m Brel👋🏽
 I’m interested in back-end programmers work
 I'm currently trying as much as I can to master C++
 I’m looking to collaborate on some projects
